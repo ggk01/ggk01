@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**ggk01/ggk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Intelligence Engineer who loves turning data into stories 📊  
+Skilled in Power BI, Qlik Sense, Python, R, and SQL – and currently diving deeper into Machine Learning 🤖
 
-Here are some ideas to get you started:
+🎯 Focused on:  
+• Business Intelligence  
+• Data Engineering  
+• AI & ML (MSc in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in Greece  
+🚀 Always learning | Always building | Always curious  
+
+Stick around for dashboards, data experiments, and side projects!
